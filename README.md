@@ -1,4 +1,4 @@
-# DYNAMR projects
+# DYNAMR pipelines
 
 Bioinformatics pipelines maintained by the [DYNAMR](https://github.com/DYNAMR-group/dynamr)
 group at the Malawi Liverpool Wellcome Research Programme. **One folder per
@@ -6,7 +6,7 @@ pipeline**.
 
 ## Pipelines
 
-| Pipeline | Description |
+| Project | Description |
 |----------|-------------|
 | [`amr_track`](amr_track) | Data processing scripts for AMR surveillance data: organism name standardisation, deduplication, and cleaning of microbiology/LIMS data for analysis and visualisation |
 | [`DLBCL_Structural_Analysis`](DLBCL_Structural_Analysis) | A reproducible Snakemake pipeline for whole-exome sequencing (WES) analysis of Diffuse Large B-Cell Lymphoma (DLBCL), integrating quality control, alignment, somatic variant calling, annotation, variant prioritization, mutant protein generation, and structural characterization of pathogenic variants. |
