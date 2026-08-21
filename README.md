@@ -14,8 +14,8 @@ pipeline**.
 | [`stwatch`](stwatch) | A pipeline that types bacterial assemblies with [`mlst`](https://github.com/tseemann/mlst), flags novel/untyped and high-risk sequence types against a watch-list, and produces an interactive HTML report with plots alongside plain CSV/TSV tables. |
 | [`v-cholera-pipeline`](v_cholera_pipeline) | Pipeline for analysing *Vibrio cholerae* genomes, from acquisition of raw sequencing reads to phylogenetic analysis. |
 
-## Adding a pipeline
+## Adding project pipelines
 
-1. Create a folder named after your pipeline
-2. Add your source files and a `README.md`
-3. Open a pull request
+1. Create a folder named after your project
+3. Add your source files and a `README.md`
+4. Open a pull request
