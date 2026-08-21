@@ -1,4 +1,4 @@
-# DYNAMR pipelines
+# DYNAMR projects
 
 Bioinformatics pipelines maintained by the [DYNAMR](https://github.com/DYNAMR-group/dynamr)
 group at the Malawi Liverpool Wellcome Research Programme. **One folder per
