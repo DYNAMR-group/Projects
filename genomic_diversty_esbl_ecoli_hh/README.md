@@ -1,4 +1,4 @@
-# Genomic Diversity of ESBL-Producing *Escherichia coli* in Households (HH)
+# Genomic Diversity of ESBL-Producing *Escherichia coli* Within Host and Households
 
 Whole-genome sequencing (WGS) pipeline for characterising the genomic diversity, resistome, and phylogenetic relationships of extended-spectrum β-lactamase (ESBL)-producing *E. coli* isolates collected from household settings.
 
